@@ -14,8 +14,6 @@
   <a href="https://www.salesforce.com/trailblazer/koq7k3888ucievq8g0"><img src="assets/badges/Trailhead-00A1E0-lg.svg" /></a>
   <a href="mailto:pannsreyoun5@gmail.com"><img src="assets/badges/Email-EA4335-lg.svg" /></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=PannTechFlow&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PannTechFlow.PannTechFlow&left_text=PROFILE%20VIEWS&left_color=%230f172a&right_color=%23f97316" />
   <img src="https://hits.sh/github.com/PannTechFlow.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=f97316&labelColor=0f172a" />
 </p>
 
