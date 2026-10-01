@@ -1,10 +1,10 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:9a3412,100:f97316&height=220&section=header&text=Pan%20Sreyoun&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20E-Commerce%20Developer%20%E2%9C%B3%20ships%20code%20%26%20vibes&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="assets/img/header.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%40+Techflow+Agency;AI+features+%C3%97+agentic+LLM+workflows;Ruby+on+Rails+%C3%97+Stripe+%C3%97+Brevo+%C3%97+n8n;Laravel+%C3%97+Shopify+%C3%97+Next.js;Hong+Kong+%E2%87%84+Cambodia+%E2%87%84+France" />
+  <img src="assets/img/typing.svg" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Hand me a project I've never touched and I'll research my way to a working solut
 
 </td>
 <td width="42%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="assets/img/coding.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -96,9 +96,9 @@ end
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,postgres,mysql,redis&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,ts,js,tailwind&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,ubuntu,git,github,githubactions,jest,postman&theme=dark" />
+  <img src="assets/img/skills-1.svg" /><br/><br/>
+  <img src="assets/img/skills-2.svg" /><br/><br/>
+  <img src="assets/img/skills-3.svg" />
 </p>
 
 <p align="center">
@@ -211,4 +211,4 @@ B2B electrical & engineering supplies store — **Next.js** storefront, Laravel 
 </p>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:9a3412,100:0f172a&height=120&section=footer" width="100%" />
+<img src="assets/img/footer.svg" width="100%" />
