@@ -13,6 +13,8 @@
   <a href="https://t.me/pannmonster"><img src="assets/badges/Telegram-26A5E4-lg.svg" /></a>
   <a href="https://www.salesforce.com/trailblazer/koq7k3888ucievq8g0"><img src="assets/badges/Trailhead-00A1E0-lg.svg" /></a>
   <a href="mailto:pannsreyoun5@gmail.com"><img src="assets/badges/Email-EA4335-lg.svg" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PannTechFlow&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
 </p>
 
 ---
