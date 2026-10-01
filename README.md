@@ -61,38 +61,6 @@ end
 
 ---
 
-### 💼 Experience
-
-> **🟠 Full-Stack Developer** · **Techflow Agency** · `Present`
-> - Build and maintain a **Rails 7.2** membership platform for a Paris real-estate investors' club — tiered plans, duo memberships, renewals
-> - Integrate **Stripe** (subscriptions & one-time checkout, webhooks, refunds) and **Brevo** CRM deal sync
-> - Automate invoicing with **n8n → Pennylane**, background jobs with **Sidekiq**, features covered by **RSpec**
-> - Ship with **Docker** to **DigitalOcean** — staging-first releases and end-to-end checkout testing
-
-> **🟠 Full Stack Engineer** · **SyncMusic.Rocks** *(Black Durian group)* · `Jan 2026 – Present`
-> - Own the **AI feature layer** of a metadata-driven music-licensing CRM (**Laravel + Vue SPA**): 40+ features across 12 families — natural-language CRM queries, scored prioritization, brief parsing, AI-drafted comms, meeting-summary-to-CRM updates, catalog insights
-> - Shipped the **data-enrichment** family: an agentic LLM loop (function-calling + live web search) proposing sourced, confidence-graded updates in single, bulk and in-chat modes, with review panel, CRM-wide reconciliation and duplicate detection
-> - Architected the **AI infrastructure**: provider-independent LLM integration, dedicated AI entities (result store, chat history, audit trail, job queue) on an async side-server — with cost controls, per-user limits and SSRF-guarded fetching
-
-> **🟠 Full-Stack Developer · Shopify Consultant** · **Black Durian Co., Ltd** · `Apr 2025 – Present`
-> - Co-built **RISE**, an in-house ERP (**Laravel + Vue.js, PostgreSQL**) for Hong Kong clients — inventory/stock, orders & invoicing, customer/CRM modules end to end
-> - Architected **two-way Shopify ↔ ERP sync** (products, customers, sales orders, invoices, receipts) via webhooks and an OData async-job API; integrated **Xero**, payment gateways and shipping carriers
-> - Built custom **Liquid** themes (OTP login, B2B-vs-personal segmentation), **Admin App UI Extensions** and metaobject/metafield architectures for credit terms, legal entities and production capacity
-> - Designed a **metaobject-driven anti-oversell engine**: per-SKU daily caps synced from the ERP block over-limit orders in real time
-> - Primary technical contact for merchants — demos, requirements, third-party apps (Zapiet, Stripe, Simple Bundle, Report Pundit)
-
-> **⚪ Salesforce Developer** *(Triggdigital)* · **Gaeasys Co., Ltd** · `Feb 2025 – Mar 2025`
-> - Automated document-generation pipeline (**Apex, Lightning Components, Documill Dynamo**) merging Salesforce + ADvendio campaign data into client-ready PowerPoint/Excel
-
-> **⚪ Frontend Developer** · **Gaeasys Co., Ltd** · `May 2024 – Feb 2025`
-> - Responsive **Next.js / TypeScript** apps across e-commerce and media — dynamic routing, optimized data fetching, **next-intl** localization
-> - Full-stack where needed: **Laravel Backpack** admin panels with role-based access (Troke eLibrary, B2E store)
-
-> **⚪ Full-Stack Developer (Internship)** · **Chhoun Yerng** · `Jan 2024 – May 2024`
-> - Lottery website and web app with **Vue.js / Nuxt.js**, alongside a 3-person design team
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
