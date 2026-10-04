@@ -45,7 +45,7 @@ Hand me a project I've never touched and I'll research my way to a working solut
 </table>
 
 ```ruby
-class PanSreyoun < Developer
+class Pann < Developer
   def initialize
     @role      = "Full-Stack E-Commerce Developer"
     @companies = %w[Techflow_Agency SyncMusic.Rocks Black_Durian]
